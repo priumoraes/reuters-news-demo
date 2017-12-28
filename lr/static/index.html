@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Article Tagging</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+    <style>
+
+      .bold-text {
+        font-weight:bold;
+      }
+    </style>
+</head>
+<body>
+    <div id="dl-article-tagging">
+        <input v-model="articleURL" type="text" size="80"/>
+        <a class="button" @click="tagArticle(articleURL)">Get Article Tags</a>
+        <br>
+        <div v-show="title"><span class="bold-text">Title:</span> {{ title }}</div>
+        <br>
+        <div v-show="taggedArticle"><span class="bold-text">Article:</span> {{ taggedArticle }}</div>
+        <br>
+        <div v-show="tags"><span class="bold-text">Tags:</span> {{ tags }}</div>
+        <br>
+        <div v-show="keywords"><span class="bold-text">Article keywords:</span> {{ keywords }}</div>
+    </div>
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+
+        new Vue({
+            el: "#dl-article-tagging",
+            data: () => {
+                return {
+                    taggedArticle: null,
+                    tags: null,
+                    articleURL: null,
+                    title: null,
+                    keywords: null
+                }
+            },
+            methods: {
+                tagArticle: function(url) {
+                    axios.post('/tag', {
+                        "url": url,
+                    })
+                        .then((response) => {
+                            this.taggedArticle = response.data.article;
+                            this.title = response.data.title;
+                            this.tags = response.data.tags;
+                            this.keywords = response.data.keywords;
+                    })
+                        .catch((error) => {
+                            console.error(error);
+                    });
+                }
+            }
+        })
+
+    </script>
+</body>
+</html>

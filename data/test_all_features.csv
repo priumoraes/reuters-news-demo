@@ -1,0 +1,252 @@
+0.3434698283672333,3,9,1,10,0.0,Taiwan Semiconductor Manufacturing Co. Ltd,, UPDATE 1-TSMC plans five new advanced wafer plants -paper ,yes
+0.12410980463027954,2,6,1,0,0.0,Taiwan.,, UPDATE 1-TSMC plans five new advanced wafer plants -paper ,yes
+0.02303633838891983,2,4,1,0,0.0,Chinese,, UPDATE 1-TSMC plans five new advanced wafer plants -paper ,yes
+0.0010440467158332467,2,1,1,0,0.7799999713897705,US,, UPDATE 1-TSMC plans five new advanced wafer plants -paper ,no
+0.0010440467158332467,7,1,1,0,0.0,T$32.5,, UPDATE 1-TSMC plans five new advanced wafer plants -paper ,no
+0.0006590384291484952,7,1,2,0,0.0,fabs,NOUN, UPDATE 1-TSMC plans five new advanced wafer plants -paper ,no
+0.1701340675354004,1,1,2,12,0.0,family,NOUN, Vietnamese family tested negative for bird flu ,yes
+0.04152582585811615,2,4,1,1,0.0,Vietnamese,, Vietnamese family tested negative for bird flu ,yes
+0.0771348848938942,7,1,2,0,0.0,chickens,NOUN, Vietnamese family tested negative for bird flu ,yes
+0.002570424461737275,7,1,2,0,0.0,animal health authorities,, Vietnamese family tested negative for bird flu ,no
+0.002389543689787388,3,1,1,0,0.0,World Health Organization,, Vietnamese family tested negative for bird flu ,no
+0.0010533457389101386,2,1,1,0,0.0,China,, Vietnamese family tested negative for bird flu ,no
+0.1512860655784607,3,6,1,1,0.0,Taiwan Semiconductor Manufacturing Co. Ltd,, TSMC plans five new 12-inch wafer plants -paper ,yes
+0.08943375945091248,2,4,1,0,0.0,Taiwan.,, TSMC plans five new 12-inch wafer plants -paper ,yes
+0.1021987646818161,2,1,2,29,0.0,wafer plants,, TSMC plans five new 12-inch wafer plants -paper ,yes
+0.001741008716635406,2,1,1,0,0.6800000071525574,US,, TSMC plans five new 12-inch wafer plants -paper ,no
+0.001741008716635406,7,1,1,0,0.0,T$32.5,, TSMC plans five new 12-inch wafer plants -paper ,no
+0.0011001619277521968,7,1,2,0,0.0,fabs,NOUN, TSMC plans five new 12-inch wafer plants -paper ,no
+0.15238028764724731,4,1,2,29,0.0,plane crash,, Ninety killed in Indonesian plane crash: radio ,yes
+0.1072506308555603,7,1,1,0,0.0,Boeing 737-400,, Ninety killed in Indonesian plane crash: radio ,yes
+0.09255819022655487,7,1,1,0,0.0,Indonesia&,, Ninety killed in Indonesian plane crash: radio ,yes
+0.005520322360098362,2,1,1,0,0.0,Polewali Mandar,, Ninety killed in Indonesian plane crash: radio ,no
+0.005520322360098362,3,1,1,0,0.0,Ali Baal Masdar,, Ninety killed in Indonesian plane crash: radio ,no
+0.004285212606191635,3,1,1,0,0.0,Radio Elshinta,, Ninety killed in Indonesian plane crash: radio ,no
+0.38907766342163086,7,1,2,0,0.0,passenger plane,, Missing Indonesia plane crashed in mountains: radio ,yes
+0.07211293280124664,1,3,1,0,0.0,Eddy Suyanto,, Missing Indonesia plane crashed in mountains: radio ,yes
+0.07487322390079498,2,1,1,0,0.0,Indonesian,, Missing Indonesia plane crashed in mountains: radio ,yes
+0.004274251405149698,1,1,2,0,0.0,rescuers,NOUN, Missing Indonesia plane crashed in mountains: radio ,no
+0.0028539784252643585,3,1,1,0,0.0,Radio Elshinta,, Missing Indonesia plane crashed in mountains: radio ,no
+0.0028539784252643585,2,1,1,0,0.0,Makassar,, Missing Indonesia plane crashed in mountains: radio ,no
+0.5628259778022766,1,6,1,0,0.0,Dennis Green,, Cardinals sack Green after three losing seasons ,yes
+0.10703233629465103,3,7,1,0,0.0,Arizona Cardinals,, Cardinals sack Green after three losing seasons ,yes
+0.06113428249955177,4,1,2,41,0.0,seasons,NOUN, Cardinals sack Green after three losing seasons ,yes
+0.0021395243238657713,3,1,1,0,0.0,NFL,, Cardinals sack Green after three losing seasons ,no
+0.0014814285095781088,3,1,1,0,0.0,Minnesota Vikings,, Cardinals sack Green after three losing seasons ,no
+0.0009433465893380344,3,1,1,0,0.0,Colts,, Cardinals sack Green after three losing seasons ,no
+0.3109123110771179,1,13,1,0,0.0,Saddam Hussein,, Iraqis ponder lessons of history after Saddam hangs ,yes
+0.07289307564496994,2,13,1,1,0.0,Iraqi,, Iraqis ponder lessons of history after Saddam hangs ,yes
+0.021563449874520302,1,3,2,0,0.0,Brigadier Abdul-Karim Kassem,, Iraqis ponder lessons of history after Saddam hangs ,yes
+0.0003900840238202363,7,1,2,0,0.0,state television,, Iraqis ponder lessons of history after Saddam hangs ,no
+0.0003648181154858321,1,1,1,0,0.0,Sara Baban,, Iraqis ponder lessons of history after Saddam hangs ,no
+0.0003162384091410786,5,1,2,0,0.0,film,NOUN, Iraqis ponder lessons of history after Saddam hangs ,no
+0.19721731543540955,2,4,1,1,0.0,Cuban,, Cuba condemns illegal Saddam Hussein execution ,yes
+0.11632315069437027,1,4,1,23,0.0,Saddam Hussein,, Cuba condemns illegal Saddam Hussein execution ,yes
+0.04742956906557083,2,5,1,0,0.0,United States,, Cuba condemns illegal Saddam Hussein execution ,yes
+0.001973917707800865,7,1,2,0,0.0,sequels,NOUN, Cuba condemns illegal Saddam Hussein execution ,no
+0.0018366150325164199,1,1,1,0,0.0,Fidel Castro,, Cuba condemns illegal Saddam Hussein execution ,no
+0.0011684882920235395,3,1,1,0,0.0,Communist Party,, Cuba condemns illegal Saddam Hussein execution ,no
+0.18273374438285828,2,2,2,0,0.0,world,NOUN, Sanofi head criticises generic drug makers - FT ,yes
+0.16343779861927032,3,2,1,0,0.0,Sanofi-Aventis,, Sanofi head criticises generic drug makers - FT ,yes
+0.10528033971786499,3,1,2,0,0.0,drug manufacturers,, Sanofi head criticises generic drug makers - FT ,yes
+0.00563135975971818,3,1,2,0,0.0,countries,NOUN, Sanofi head criticises generic drug makers - FT ,no
+0.005620386451482773,1,1,2,0,0.0,counterparts,NOUN, Sanofi head criticises generic drug makers - FT ,no
+0.002866338472813368,2,1,2,0,0.0,north,NOUN, Sanofi head criticises generic drug makers - FT ,no
+0.02320750057697296,3,12,1,0,0.0,Goodyear Tire,, Goodyear workers ratify three-year contract ,yes
+0.021136445924639702,7,2,2,0,0.0,achievement,NOUN, Goodyear workers ratify three-year contract ,yes
+0.011561993509531021,2,3,1,0,0.0,United States,, Goodyear workers ratify three-year contract ,yes
+0.0006672972813248634,7,1,2,0,0.0,results,NOUN, Goodyear workers ratify three-year contract ,no
+0.0005797001649625599,2,1,1,0,0.0,Ohio,, Goodyear workers ratify three-year contract ,no
+0.0005797001649625599,2,1,1,0,0.0,Akron,, Goodyear workers ratify three-year contract ,no
+0.1554601639509201,1,1,2,0,0.0,stock investors,, Stock rally of 2006 smiled on all sectors ,yes
+0.08243347704410553,7,1,2,0,0.0,Gains,, Stock rally of 2006 smiled on all sectors ,yes
+0.06344208121299744,7,1,2,0,0.0,middle,NOUN, Stock rally of 2006 smiled on all sectors ,yes
+0.0020374092273414135,7,1,2,0,0.0,mergers,NOUN, Stock rally of 2006 smiled on all sectors ,no
+0.0020374092273414135,7,1,2,0,0.0,data,NOUN, Stock rally of 2006 smiled on all sectors ,no
+0.0020374092273414135,7,1,2,0,0.0,buyouts,NOUN, Stock rally of 2006 smiled on all sectors ,no
+0.2363699972629547,1,5,1,1,0.0,Placido Domingo,, Placido Domingo backs NY Met's opera at cinema push ,yes
+0.016485251486301422,1,6,2,0,0.0,Peter Gelb,, Placido Domingo backs NY Met's opera at cinema push ,yes
+0.020671796053647995,7,3,2,28,0.0,business,NOUN, Placido Domingo backs NY Met's opera at cinema push ,yes
+0.0006892595556564629,7,1,2,0,0.0,mass media initiatives,, Placido Domingo backs NY Met's opera at cinema push ,no
+0.0006892595556564629,7,1,2,0,0.0,job,NOUN, Placido Domingo backs NY Met's opera at cinema push ,no
+0.0006414683302864432,5,1,1,0,0.0,The Joy of Opera,, Placido Domingo backs NY Met's opera at cinema push ,no
+0.06359811127185822,1,12,1,0,0.0,Saddam Hussein,, Iraq to probe filming of Saddam hanging ,yes
+0.03267207741737366,2,13,1,0,0.0,Americans,, Iraq to probe filming of Saddam hanging ,yes
+0.0423564612865448,2,10,1,0,0.0,Iraqi,, Iraq to probe filming of Saddam hanging ,yes
+0.00038574833888560534,4,1,2,0,0.0,death,NOUN, Iraq to probe filming of Saddam hanging ,no
+0.00034402727033011615,1,1,2,0,0.0,supporters,NOUN, Iraq to probe filming of Saddam hanging ,no
+0.0003424106689635664,1,1,1,0,0.0,al-Sadr,, Iraq to probe filming of Saddam hanging ,no
+0.03675088286399841,2,14,1,1,0.0,Australians,, Australian lexicon can leave you a few roos loose ,yes
+0.2999948561191559,7,1,2,0,0.0,mentis,NOUN, Australian lexicon can leave you a few roos loose ,yes
+0.013300886377692223,7,2,2,0,0.0,variety,NOUN, Australian lexicon can leave you a few roos loose ,yes
+0.0003654074971564114,6,1,1,0,0.0,Baron Lamington,, Australian lexicon can leave you a few roos loose ,no
+0.00031966104870662093,2,1,1,0,0.0,Queensland,, Australian lexicon can leave you a few roos loose ,no
+0.00031966104870662093,1,1,1,0,0.0,Charles Baillie,, Australian lexicon can leave you a few roos loose ,no
+0.1632021814584732,2,17,1,42,0.0,Japanese,, Greying workers wanted for hire in aging Japan ,yes
+0.04384469613432884,1,5,1,0,0.0,Shigeo Hirano,, Greying workers wanted for hire in aging Japan ,yes
+0.009884989820420742,3,5,1,0,0.0,Pasona Inc.,, Greying workers wanted for hire in aging Japan ,yes
+0.000443963916040957,7,1,2,0,0.0,employment opportunities,, Greying workers wanted for hire in aging Japan ,no
+0.0004269501951057464,1,1,2,0,0.0,analysts,NOUN, Greying workers wanted for hire in aging Japan ,no
+0.0004217775713186711,7,1,2,0,0.0,laws,NOUN, Greying workers wanted for hire in aging Japan ,no
+0.15665650367736816,2,6,1,0,0.0,Iraqi,, Iraq civilian deaths hit new record: ministry ,yes
+0.0733550488948822,3,4,1,0,0.0,Interior Ministry,, Iraq civilian deaths hit new record: ministry ,yes
+0.042220339179039,3,3,2,0,0.0,government,NOUN, Iraq civilian deaths hit new record: ministry ,yes
+0.0010562054812908173,4,1,2,0,0.0,shootings,NOUN, Iraq civilian deaths hit new record: ministry ,no
+0.0010562054812908173,4,1,2,0,0.0,bombings,NOUN, Iraq civilian deaths hit new record: ministry ,no
+0.0009344339487142861,1,1,2,0,0.0,reporters,NOUN, Iraq civilian deaths hit new record: ministry ,no
+0.12754009664058685,1,4,1,0,0.0,Daya Rakha,, India's forgotten tribes gain rights over forests ,yes
+0.017238153144717216,1,7,1,0,0.0,Gir forest,, India's forgotten tribes gain rights over forests ,yes
+0.011174946092069149,2,9,1,1,0.0,India&,, India's forgotten tribes gain rights over forests ,yes
+0.0005526237073354423,7,1,2,0,0.0,Images,, India's forgotten tribes gain rights over forests ,no
+0.0004820793110411614,1,1,2,0,0.0,Officials,, India's forgotten tribes gain rights over forests ,no
+0.00045839062659069896,1,1,2,0,0.0,wildlife activists,, India's forgotten tribes gain rights over forests ,no
+0.13433101773262024,1,3,2,0,0.0,politicians,NOUN, Dead leaders drive Lebanese political life ,yes
+0.020191820338368416,3,8,1,0,0.0,anti-Syrian,, Dead leaders drive Lebanese political life ,yes
+0.036811813712120056,1,2,1,0,0.0,Pierre Gemayel,, Dead leaders drive Lebanese political life ,yes
+0.00048725216765888035,7,1,2,0,0.0,M1,, Dead leaders drive Lebanese political life ,no
+0.00048725216765888035,3,1,2,0,0.0,Images,, Dead leaders drive Lebanese political life ,no
+0.0004450240812730044,1,1,2,6,0.0,leaders,NOUN, Dead leaders drive Lebanese political life ,no
+0.17160139977931976,1,5,1,0,0.0,Andrei Nikolayev,, Priest's death shows Russia's rural rot ,yes
+0.019588079303503036,2,10,1,0,0.0,Russian,, Priest's death shows Russia's rural rot ,yes
+0.03942238539457321,7,2,2,0,0.0,repeat,NOUN, Priest's death shows Russia's rural rot ,yes
+0.000699020572938025,7,1,2,0,0.0,News reports,, Priest's death shows Russia's rural rot ,no
+0.000542145746294409,1,1,2,0,0.0,superiors,NOUN, Priest's death shows Russia's rural rot ,no
+0.0003211011935491115,3,1,1,0,0.0,Reuters,, Priest's death shows Russia's rural rot ,no
+0.059248074889183044,2,9,1,0,0.0,Hillbrow.,, Celebrating New Year in deadly Safrican hotspot ,yes
+0.28764742612838745,1,1,1,0,0.0,Nkululeko Mthwethwa,, Celebrating New Year in deadly Safrican hotspot ,yes
+0.012624621391296387,7,3,1,0,0.0,Johannesburg&,, Celebrating New Year in deadly Safrican hotspot ,yes
+0.0006045837653800845,7,1,2,0,0.0,sign,NOUN, Celebrating New Year in deadly Safrican hotspot ,no
+0.0006045837653800845,1,1,2,0,0.0,relatives,NOUN, Celebrating New Year in deadly Safrican hotspot ,no
+0.0006045837653800845,7,1,2,0,0.0,Outside,, Celebrating New Year in deadly Safrican hotspot ,no
+0.3109123110771179,1,13,1,0,0.0,Saddam Hussein,, Iraqis ponder lessons of history after Saddam hangs ,yes
+0.07289307564496994,2,13,1,1,0.0,Iraqi,, Iraqis ponder lessons of history after Saddam hangs ,yes
+0.021563449874520302,1,3,2,0,0.0,Brigadier Abdul-Karim Kassem,, Iraqis ponder lessons of history after Saddam hangs ,yes
+0.0003900840238202363,7,1,2,0,0.0,state television,, Iraqis ponder lessons of history after Saddam hangs ,no
+0.0003648181154858321,1,1,1,0,0.0,Sara Baban,, Iraqis ponder lessons of history after Saddam hangs ,no
+0.0003162384091410786,5,1,2,0,0.0,film,NOUN, Iraqis ponder lessons of history after Saddam hangs ,no
+0.45798608660697937,1,7,1,0,0.0,Bob Knight,, Knight passes Smith to become all-time wins leader ,yes
+0.022269489243626595,3,3,1,0,0.0,Texas Tech,, Knight passes Smith to become all-time wins leader ,yes
+0.030703995376825333,1,2,1,0,0.0,Dean Smith,, Knight passes Smith to become all-time wins leader ,yes
+0.0014668761286884546,1,1,2,0,0.0,student,NOUN, Knight passes Smith to become all-time wins leader ,no
+0.0014668761286884546,7,1,2,0,0.0,limb,NOUN, Knight passes Smith to become all-time wins leader ,no
+0.0009329810854978859,7,1,2,0,0.0,M1,, Knight passes Smith to become all-time wins leader ,no
+0.30007708072662354,3,6,1,0,0.0,Arizona Cardinals,, Cardinals sack Green after three losing seasons ,yes
+0.35764065384864807,1,5,1,0,0.0,Dennis Green,, Cardinals sack Green after three losing seasons ,yes
+0.07018426805734634,4,1,2,41,0.0,seasons,NOUN, Cardinals sack Green after three losing seasons ,yes
+0.0017671415116637945,7,1,2,0,0.0,ways,NOUN, Cardinals sack Green after three losing seasons ,no
+0.0017671415116637945,4,1,2,0,0.0,home game,, Cardinals sack Green after three losing seasons ,no
+0.0016452840063720942,3,1,1,0,0.0,Minnesota Vikings,, Cardinals sack Green after three losing seasons ,no
+0.06059478223323822,1,1,2,0,0.0,military veterans,, Study links post-traumatic stress to heart disease ,yes
+0.032041486352682114,7,1,2,28,0.0,stress,NOUN, Study links post-traumatic stress to heart disease ,yes
+0.025564495474100113,7,1,2,38,0.0,heart disease,, Study links post-traumatic stress to heart disease ,yes
+0.0009226863621734083,2,2,1,0,0.0,Netherlands,, Study links post-traumatic stress to heart disease ,no
+0.0015588576206937432,5,1,2,0,0.0,journal,NOUN, Study links post-traumatic stress to heart disease ,no
+0.0015588576206937432,1,1,2,0,0.0,counterparts,NOUN, Study links post-traumatic stress to heart disease ,no
+0.05843132734298706,7,2,2,31,0.0,consequence,NOUN, Physical abuse leads to adult depression: US study ,yes
+0.04052383825182915,1,2,1,0,0.0,Cathy Spatz Widom,, Physical abuse leads to adult depression: US study ,yes
+0.05765076354146004,7,1,2,0,0.0,finding,NOUN, Physical abuse leads to adult depression: US study ,yes
+0.0017258196603506804,7,1,2,0,0.0,sex,NOUN, Physical abuse leads to adult depression: US study ,no
+0.0017258196603506804,4,1,2,0,0.0,race,NOUN, Physical abuse leads to adult depression: US study ,no
+0.0017218355787917972,3,1,2,0,0.0,groups,NOUN, Physical abuse leads to adult depression: US study ,no
+0.4444177448749542,1,10,1,0,0.0,Luiz Inacio Lula da Silva,, Brazil's Lula pledges economic growth in 2nd term ,yes
+0.016868170350790024,3,5,1,0,0.0,Brazil&,, Brazil's Lula pledges economic growth in 2nd term ,yes
+0.019543884322047234,1,2,1,0,0.0,Antonio da Silva Lima,, Brazil's Lula pledges economic growth in 2nd term ,yes
+0.0009139173198491335,7,1,2,0,0.0,aides,NOUN, Brazil's Lula pledges economic growth in 2nd term ,no
+0.0006804617587476969,6,1,1,0,0.0,Monday&,, Brazil's Lula pledges economic growth in 2nd term ,no
+0.0005338469636626542,7,1,2,0,0.0,scandals,NOUN, Brazil's Lula pledges economic growth in 2nd term ,no
+0.2191254198551178,3,7,1,0,0.0,Adam Air,, Search under way for plane carrying 102 in Indonesia ,yes
+0.0452326163649559,2,5,1,0,0.0,Makassar,, Search under way for plane carrying 102 in Indonesia ,yes
+0.03192013129591942,2,6,1,44,0.0,Indonesians,, Search under way for plane carrying 102 in Indonesia ,yes
+0.0003679904039017856,7,1,2,0,0.0,jets,NOUN, Search under way for plane carrying 102 in Indonesia ,no
+0.0002890490577556193,3,1,1,0,0.0,General Electric,, Search under way for plane carrying 102 in Indonesia ,no
+0.0002890490577556193,7,1,1,0,0.0,CFM56,, Search under way for plane carrying 102 in Indonesia ,no
+0.3079783022403717,1,4,1,0,0.0,Jim Mora,, Falcons fire head coach Mora after 7-9 campaign ,yes
+0.3154900372028351,7,2,2,0,0.0,decision,NOUN, Falcons fire head coach Mora after 7-9 campaign ,yes
+0.02203049510717392,3,3,1,0,0.0,Atlanta Falcons,, Falcons fire head coach Mora after 7-9 campaign ,yes
+0.002301090629771352,7,1,2,0,0.0,place,NOUN, Falcons fire head coach Mora after 7-9 campaign ,no
+0.002301090629771352,7,1,2,0,0.0,loss,NOUN, Falcons fire head coach Mora after 7-9 campaign ,no
+0.0022945930249989033,7,1,2,0,0.0,seven,NUM, Falcons fire head coach Mora after 7-9 campaign ,no
+0.26482105255126953,1,2,1,0,0.0,Ban Ki-Moon,, FACTBOX-Secretaries-general of the United Nations ,yes
+0.1976122111082077,3,2,1,36,0.0,United Nations,, FACTBOX-Secretaries-general of the United Nations ,yes
+0.1528748720884323,2,2,1,0,0.0,South Korean,, FACTBOX-Secretaries-general of the United Nations ,yes
+0.008123052306473255,2,1,1,0,0.0,Ghana,, FACTBOX-Secretaries-general of the United Nations ,no
+0.005149520002305508,2,1,1,0,0.0,Peru,, FACTBOX-Secretaries-general of the United Nations ,no
+0.005149520002305508,1,1,1,0,0.0,Javier Perez de Cuellar,, FACTBOX-Secretaries-general of the United Nations ,no
+0.22442607581615448,7,2,2,0,0.0,airplane,NOUN, Plane violates airspace over President Bush's ranch ,yes
+0.11570419371128082,1,3,1,0,0.0,George W. Bush&,, Plane violates airspace over President Bush's ranch ,yes
+0.028652064502239227,3,3,1,0,0.0,Secret Service,, Plane violates airspace over President Bush's ranch ,yes
+0.0032434077002108097,3,1,1,0,0.0,Federal Aviation Administration,, Plane violates airspace over President Bush's ranch ,no
+0.0030272614676505327,1,1,2,0,0.0,pilot,NOUN, Plane violates airspace over President Bush's ranch ,no
+0.0022392708342522383,1,1,2,0,0.0,official,NOUN, Plane violates airspace over President Bush's ranch ,no
+0.15638090670108795,1,14,1,8,0.0,Islamists&#8217,, Somali Islamists flee toward Kenya and to the hills ,yes
+0.03249427303671837,2,10,1,0,0.0,Ethiopian,, Somali Islamists flee toward Kenya and to the hills ,yes
+0.05855794996023178,2,5,1,30,0.0,Kenyan,, Somali Islamists flee toward Kenya and to the hills ,yes
+0.0004391896945890039,7,1,2,0,0.0,vacuum,NOUN, Somali Islamists flee toward Kenya and to the hills ,no
+0.0004330053343437612,1,1,2,0,0.0,analysts,NOUN, Somali Islamists flee toward Kenya and to the hills ,no
+0.00030248513212427497,3,1,1,0,0.0,African Union,, Somali Islamists flee toward Kenya and to the hills ,no
+0.06327207386493683,2,5,1,16,0.0,Mogadishu&,, Somalis stroll Mogadishu under eye of govt victors ,yes
+0.018756898120045662,7,5,1,0,0.0,Somalia&,, Somalis stroll Mogadishu under eye of govt victors ,yes
+0.02033778466284275,3,4,1,0,0.0,Somalia Islamic Courts Council,, Somalis stroll Mogadishu under eye of govt victors ,yes
+0.0006301786634139717,4,1,1,0,0.0,New Year,, Somalis stroll Mogadishu under eye of govt victors ,no
+0.0005831747548654675,4,1,2,0,0.0,news conference,, Somalis stroll Mogadishu under eye of govt victors ,no
+0.00044080644147470593,6,1,2,0,0.0,ones,NOUN, Somalis stroll Mogadishu under eye of govt victors ,no
+0.19149203598499298,1,7,1,0,0.0,Boris Tadic,, President says next Serb government must unblock EU path ,yes
+0.05223526060581207,1,5,1,0,0.0,Ratko Mladic,, President says next Serb government must unblock EU path ,yes
+0.0238813366740942,1,10,1,0,0.0,Serbia&,, President says next Serb government must unblock EU path ,yes
+0.0005084248259663582,3,1,1,0,0.0,post-Slobodan Milosevic,, President says next Serb government must unblock EU path ,no
+0.0005072501953691244,2,1,1,0,0.0,Albanian,, President says next Serb government must unblock EU path ,no
+0.0005036434740759432,7,1,2,0,0.0,most,ADJ, President says next Serb government must unblock EU path ,no
+0.19221176207065582,3,21,1,28,0.0,European Union,, CHRONOLOGY - Growth of the European Union ,yes
+0.05828673392534256,2,5,1,0,0.0,Romania,, CHRONOLOGY - Growth of the European Union ,yes
+0.05828673392534256,2,5,1,0,0.0,Bulgaria,, CHRONOLOGY - Growth of the European Union ,yes
+0.0012277901405468583,2,1,1,0,0.0,Macedonia,, CHRONOLOGY - Growth of the European Union ,no
+0.001181356143206358,2,1,1,0,0.0,Ankara,, CHRONOLOGY - Growth of the European Union ,no
+0.0007517394260503352,3,1,1,0,0.0,Nice,, CHRONOLOGY - Growth of the European Union ,no
+0.02321469970047474,1,13,1,0,0.0,Bulgarians,, FACTBOX - Key facts on EU entrants Romania and Bulgaria ,yes
+0.07387959212064743,1,4,1,0,0.0,Romanians,, FACTBOX - Key facts on EU entrants Romania and Bulgaria ,yes
+0.03873319551348686,2,6,1,36,0.0,Romanian,, FACTBOX - Key facts on EU entrants Romania and Bulgaria ,yes
+0.00034152495209127665,1,1,1,0,0.0,Protestants,, FACTBOX - Key facts on EU entrants Romania and Bulgaria ,no
+0.00034152495209127665,1,1,1,0,0.0,Jews,, FACTBOX - Key facts on EU entrants Romania and Bulgaria ,no
+0.00034152495209127665,7,1,1,0,0.0,Greek,, FACTBOX - Key facts on EU entrants Romania and Bulgaria ,no
+0.14140067994594574,5,1,2,5,0.699999988079071,movies,NOUN, Top movies at the North American box office ,yes
+0.06208808720111847,5,2,2,0,0.0,Dreamgirls,, Top movies at the North American box office ,yes
+0.09452594071626663,7,1,2,0,0.0,studio estimates,, Top movies at the North American box office ,yes
+0.0020816384349018335,3,1,1,0,0.0,Twentieth Century Fox,, Top movies at the North American box office ,no
+0.0020816384349018335,3,1,1,0,0.0,Sony Corp.,, Top movies at the North American box office ,no
+0.0020816384349018335,3,1,1,0,0.0,News Corp.,, Top movies at the North American box office ,no
+0.1079399362206459,2,15,1,1,0.0,United States,, U.S. sought to delay Saddam execution: Iraqi source ,yes
+0.066238172352314,1,13,1,0,0.0,Saddam Hussein,, U.S. sought to delay Saddam execution: Iraqi source ,yes
+0.04290761426091194,2,6,1,40,0.0,Iraqi,, U.S. sought to delay Saddam execution: Iraqi source ,yes
+0.0005500567494891584,2,1,1,0,0.0,Tikrit,, U.S. sought to delay Saddam execution: Iraqi source ,no
+0.0003500951861497015,2,1,1,0,0.0,Afghan,, U.S. sought to delay Saddam execution: Iraqi source ,no
+0.00034986744867637753,3,1,1,0,0.0,Mehdi Army,, U.S. sought to delay Saddam execution: Iraqi source ,no
+0.08458385616540909,1,19,1,0,0.0,Moqtada al-Sadr&,, Iraqis see U.S. push against Sadr's Mehdi Army ,yes
+0.06644804030656815,2,9,1,12,0.0,Americans,, Iraqis see U.S. push against Sadr's Mehdi Army ,yes
+0.04356637969613075,7,7,1,0,0.0,Shi&#8216,, Iraqis see U.S. push against Sadr's Mehdi Army ,yes
+0.0004154637863393873,7,1,2,0,0.0,chance,NOUN, Iraqis see U.S. push against Sadr's Mehdi Army ,no
+0.0003463069151621312,3,1,1,0,0.0,Dawa,, Iraqis see U.S. push against Sadr's Mehdi Army ,no
+0.0003460558655206114,2,1,1,0,0.0,Najaf,, Iraqis see U.S. push against Sadr's Mehdi Army ,no
+0.07568622380495071,2,8,1,0,0.0,Saudi Arabia,, Pilgrims rush to end rites on final day of haj ,yes
+0.08493055403232574,7,1,2,0,0.0,tragedies,NOUN, Pilgrims rush to end rites on final day of haj ,yes
+0.040037598460912704,7,2,2,44,0.0,duty,NOUN, Pilgrims rush to end rites on final day of haj ,yes
+0.0009051224333234131,1,1,1,0,0.0,Arabs,, Pilgrims rush to end rites on final day of haj ,no
+0.0006299890228547156,7,1,1,0,0.0,anti-U.S.,, Pilgrims rush to end rites on final day of haj ,no
+0.0006150950212031603,1,1,2,0,0.0,officials,NOUN, Pilgrims rush to end rites on final day of haj ,no
+0.06326232850551605,1,6,1,0,0.0,Saddam Hussein,, Iraq shuts TV channel for inciting sectarianism ,yes
+0.09216015040874481,7,4,1,0,0.0,Sharkiya,, Iraq shuts TV channel for inciting sectarianism ,yes
+0.024779310449957848,1,5,1,0,0.0,Abdul Karim Khalaf,, Iraq shuts TV channel for inciting sectarianism ,yes
+0.000664968101773411,1,1,1,0,0.0,Arab,, Iraq shuts TV channel for inciting sectarianism ,no
+0.0005285261431708932,3,1,1,0,0.0,pan-Arab,, Iraq shuts TV channel for inciting sectarianism ,no
+0.0005280294572003186,7,1,1,0,0.0,English,, Iraq shuts TV channel for inciting sectarianism ,no
+0.4514952003955841,1,2,2,10,0.0,soldiers,NOUN, Two U.S. soldiers killed in Iraq ,yes
+0.05497903749346733,2,4,1,5,0.0,Americans,, Two U.S. soldiers killed in Iraq ,yes
+0.04828435555100441,2,2,1,0,0.0,Iraq&,, Two U.S. soldiers killed in Iraq ,yes
+0.003615928813815117,1,1,2,10,0.0,soldier,NOUN, Two U.S. soldiers killed in Iraq ,no
+0.0035334008280187845,7,1,2,0,0.0,total,NOUN, Two U.S. soldiers killed in Iraq ,no
+0.003056185320019722,7,1,2,0,0.0,roadside bomb,, Two U.S. soldiers killed in Iraq ,no
+0.2432195395231247,1,3,2,19,0.0,politicians,NOUN, Thai PM blames ex-politicians for bombs ,yes
+0.03498895838856697,2,7,1,0,0.0,Bangkok&,, Thai PM blames ex-politicians for bombs ,yes
+0.04597936570644379,1,5,1,0,0.0,Surayud Chulanont,, Thai PM blames ex-politicians for bombs ,yes
+0.000528358097653836,7,1,2,0,0.0,checkpoints,NOUN, Thai PM blames ex-politicians for bombs ,no
+0.0004916313919238746,1,1,1,0,0.0,Serbs,, Thai PM blames ex-politicians for bombs ,no
+0.0004916313919238746,1,1,1,0,0.0,Hungarians,, Thai PM blames ex-politicians for bombs ,no
