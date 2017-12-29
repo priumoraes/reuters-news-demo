@@ -182,7 +182,7 @@ node {
             size: 1
           }
         }
-        string_val: "/Users/priscillamoraes/git/reuters-news-demo/data/train2.csv"
+        string_val: "/Users/priscillamoraes/git/reuters-news-demo-nongit/data/train3.csv"
       }
     }
   }
@@ -10624,7 +10624,7 @@ node {
         dtype: DT_FLOAT
         tensor_shape {
         }
-        float_val: 0.20000000298
+        float_val: 0.10000000149
       }
     }
   }
@@ -10655,7 +10655,7 @@ node {
         dtype: DT_FLOAT
         tensor_shape {
         }
-        float_val: 0.0
+        float_val: 2.0
       }
     }
   }
@@ -10686,7 +10686,7 @@ node {
         dtype: DT_FLOAT
         tensor_shape {
         }
-        float_val: 0.0
+        float_val: 0.5
       }
     }
   }
@@ -38643,7 +38643,7 @@ node {
         dtype: DT_STRING
         tensor_shape {
         }
-        string_val: "_temp_e42541f5b1dd4c6185c590465cda2efa/part"
+        string_val: "_temp_6598b0b2ca4d4ab88c4383dee3185473/part"
       }
     }
   }

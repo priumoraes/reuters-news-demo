@@ -20,7 +20,11 @@ def create_estimator(config, model_dir):
 
   lr_classifier = tf.contrib.learn.LinearClassifier(
       feature_columns=INPUT_DATA,
-      model_dir=model_dir
+      model_dir=model_dir,
+      optimizer=tf.train.FtrlOptimizer(
+        learning_rate=0.1,
+        l1_regularization_strength=2.0,
+        l2_regularization_strength=0.5)
   )
   return lr_classifier
 
