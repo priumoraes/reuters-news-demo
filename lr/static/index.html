@@ -22,7 +22,7 @@
         <br>
         <div v-show="tags"><span class="bold-text">Tags:</span> {{ tags }}</div>
         <br>
-        <div v-show="keywords"><span class="bold-text">Article keywords:</span> {{ keywords }}</div>
+      <!--  <div v-show="keywords"><span class="bold-text">Article keywords:</span> {{ keywords }}</div> <-->
     </div>
     <script src="https://unpkg.com/vue"></script>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
@@ -36,7 +36,7 @@
                     tags: null,
                     articleURL: null,
                     title: null,
-                    keywords: null
+                    //keywords: null
                 }
             },
             methods: {
@@ -48,7 +48,7 @@
                             this.taggedArticle = response.data.article;
                             this.title = response.data.title;
                             this.tags = response.data.tags;
-                            this.keywords = response.data.keywords;
+                            //this.keywords = response.data.keywords;
                     })
                         .catch((error) => {
                             console.error(error);

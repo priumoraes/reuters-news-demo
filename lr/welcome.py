@@ -16,13 +16,11 @@ def welcome():
 def tag():
 
     create_json = request.get_json(force=True)
-    #print(json.dumps(create_json))
     article, tags, title, keywords = inference.infer(create_json['url'])
     tst_json = {}
     tst_json["tags"] = tags
     tst_json["article"] = article
     tst_json["title"] = title
-    tst_json["keywords"] = keywords
     return jsonify(tst_json)
 
 

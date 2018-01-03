@@ -26,6 +26,7 @@ def create_estimator(config, model_dir):
         l1_regularization_strength=2.0,
         l2_regularization_strength=0.5)
   )
+  #logging.info('Linear classifier created succesfully.')
   return lr_classifier
 
 def get_cleaned_colums():

@@ -7,6 +7,7 @@ import os
 import operator
 import shutil
 
+
 def predict(result):
     i = 0
     index_key = {}
@@ -30,6 +31,7 @@ def predict(result):
         p = re.compile('\d+')
         index = p.findall(filename)[0]
         predictions[index_key[index]] = prob
+        print('Predicting entity: '+index_key[index])
 
     labels = get_top_labels(predictions)
     return labels
@@ -40,8 +42,9 @@ def get_top_labels(preds):
     sorted_preds = sorted(preds.items(),
         key=operator.itemgetter(1),
         reverse=True)
-    print(sorted_preds)
+    #print(sorted_preds)
     labels = sorted_preds[:3]
+    #logging.debug('Top 3 labels: '+str(labels))
     return labels
 
 
@@ -50,12 +53,11 @@ def infer(url):
         content, title, keywords = scrapper.getURLContent(url)
         try:
             entities = utils.process_entities(content, title)
-            #print(entities)
             try:
-                pos_tags = predict(entities)
-                print(pos_tags)
+                pos_tags1 = predict(entities)
+                pos_tags2, neg_tags = utils.get_tags(entities, title, 3)
             except:
-                pos_tags, neg_tags = utils.get_tags(entities, title, 3)
+                pos_tags2, neg_tags = utils.get_tags(entities, title, 3)
         except:
             print("Unable to get entities.")
     except:
@@ -63,7 +65,7 @@ def infer(url):
         pos_tags = "No tags found."
         title = "No title found."
         keywords = "No keywords found."
-    return content, pos_tags, title, keywords
+    return content, pos_tags2, title, keywords
 
 def main():
     url = 'http://www.reuters.com/article/companyNewsAndPR/idUSTP13157220070102'

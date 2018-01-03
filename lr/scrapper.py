@@ -6,6 +6,7 @@ import csv
 import json
 import random
 
+
 def striphtml(data):
     p = re.compile(r'<.*?>')
     data = p.sub('', data)
@@ -63,7 +64,7 @@ def main():
                     title = fields[2].replace('"','')
                     url = fields[3].replace('"','')
                     news['id'] = id
-                    #print(id)
+                    logging.debug('News id: '+str(id))
                     try:
                         content, title, keywords = getURLContent(url).replace('"','')
                         content_list = content.split()
@@ -73,18 +74,14 @@ def main():
                         random_tags = random_tag1+', '+random_tag2+', '+random_tag3
                         line = id+' | '+clean_id+' | '+title+' | '+url+' | \
                             '+content+' | '+random_tags+ ' | '+keywords
+                        logging.debug('News information: '+line)
                         f.write(line)
                         f.write('\n')
                     except:
-                        print('Unexpected error when scrapping url: '+ url)
+                        logging.error('Unexpected error when scrapping url: '+ url)
 
                 else:
                     continue
-                """
-                i += 1
-                if i == 500:
-                    break
-                """
             csvfile.close()
         f.close()
 

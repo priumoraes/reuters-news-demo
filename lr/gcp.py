@@ -23,7 +23,6 @@ def get_categories(content):
 
 
 def get_syntax(content):
-    """Detects syntax in the text."""
     client = language.LanguageServiceClient()
 
     # Instantiates a plain text document.
@@ -46,5 +45,7 @@ def get_prediction(data_dir, filename):
                 > ../data/output/prediction.txt"
     try:
         os.system(cmd)
+        #logging.info('Prediction was successful.')
     except:
+        #logging.error('Could not predict file '+filename)
         print('Could not predict file '+filename)

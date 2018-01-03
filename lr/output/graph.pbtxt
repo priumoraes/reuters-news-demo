@@ -182,7 +182,7 @@ node {
             size: 1
           }
         }
-        string_val: "/Users/priscillamoraes/git/reuters-news-demo-nongit/data/train3.csv"
+        string_val: "/Users/priscillamoraes/Downloads/train_large_all.csv"
       }
     }
   }
@@ -38643,7 +38643,7 @@ node {
         dtype: DT_STRING
         tensor_shape {
         }
-        string_val: "_temp_6598b0b2ca4d4ab88c4383dee3185473/part"
+        string_val: "_temp_8ed2b9fdc3794153a2efed4c4780d505/part"
       }
     }
   }
